@@ -5,15 +5,15 @@ In this repository, I present a collection of quantitative trading strategies an
 Please note that these notebooks are intended solely for research purposes and do not constitute financial advice.
 
 Strategies:
-1. Quantitative Strategies
-- Pairs Trading
-    - Price Spread
-    - Log Spread
-    - Kalman Filter
+1. **Quantitative Strategies**
+    - Pairs Trading
+        - Price Spread
+        - Log Spread
+        - Kalman Filter
 
-2. Technical Analysis Strategies
-- Momentum Based Strategies
-    - MACD Histogram Reversal (ONGOING)
-    - EMA Trend Reversal (ONGOING)
-- Combination Strategies
-    - MACD + EMA (ONGOING)
+2. **Technical Analysis Strategies**
+    - Momentum Based Strategies
+        - MACD Histogram Reversal (ONGOING)
+        - EMA Trend Reversal (ONGOING)
+    - Combination Strategies
+        - MACD + EMA (ONGOING)
