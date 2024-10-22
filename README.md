@@ -7,13 +7,13 @@ Please note that these notebooks are intended solely for research purposes and d
 Strategies:
 1. Quantitative Strategies
 - Pairs Trading
-a. Price Spread
-b. Log Spread
-c. Kalman Filter
+    - Price Spread
+    - Log Spread
+    - Kalman Filter
 
 2. Technical Analysis Strategies
 - Momentum Based Strategies
-a. MACD Histogram Reversal (ONGOING)
-b. EMA Trend Reversal (ONGOING)
+    - MACD Histogram Reversal (ONGOING)
+    - EMA Trend Reversal (ONGOING)
 - Combination Strategies
-a. MACD + EMA (ONGOING)
+    - MACD + EMA (ONGOING)
