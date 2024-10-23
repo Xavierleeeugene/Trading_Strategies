@@ -13,7 +13,7 @@ Strategies:
 
 2. **Technical Analysis Strategies**
     - Momentum Based Strategies
-        - MACD Histogram Reversal (ONGOING)
-        - EMA Trend Reversal (ONGOING)
+        - MACD Histogram Reversal
+        - EMA Trend Reversal
     - Combination Strategies
         - MACD + EMA (ONGOING)
