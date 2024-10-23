@@ -1,4 +1,4 @@
-## **Quantitative Trading Strategies**
+## **Trading Strategies**
 
 In this repository, I present a collection of quantitative trading strategies and technical analysis-based strategies, compiled from my research.
 
