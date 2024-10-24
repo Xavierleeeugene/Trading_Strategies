@@ -6,6 +6,7 @@ Please note that these notebooks are intended solely for research purposes and d
 
 Strategies:
 1. **Quantitative Strategies**
+    - Mean Reversion (Future Works)
     - Pairs Trading
         - Price Spread
         - Log Spread
@@ -15,5 +16,9 @@ Strategies:
     - Momentum Based Strategies
         - MACD Histogram Reversal
         - EMA Trend Reversal
+        - RSI (Future Works)
+        - VWAP (Future Works)
+        - Bollinger Bands (Future Works)
+    - Support Resistance Strategies (Future Works)
     - Combination Strategies
-        - MACD + EMA (ONGOING)
+        - MACD + EMA
