@@ -16,7 +16,7 @@ Strategies:
     - Momentum Based Strategies
         - MACD Histogram Reversal
         - EMA Trend Reversal
-        - RSI (Future Works)
+        - RSI
         - VWAP (Future Works)
         - Bollinger Bands (Future Works)
     - Support Resistance Strategies (Future Works)
