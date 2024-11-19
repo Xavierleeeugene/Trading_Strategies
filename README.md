@@ -17,8 +17,8 @@ Strategies:
         - MACD Histogram Reversal
         - EMA Trend Reversal
         - RSI
+        - Bollinger Bands
         - VWAP (Future Works)
-        - Bollinger Bands (Future Works)
     - Support Resistance Strategies (Future Works)
     - Combination Strategies
         - MACD + EMA
