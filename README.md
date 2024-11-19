@@ -4,21 +4,35 @@ In this repository, I present a collection of quantitative trading strategies an
 
 Please note that these notebooks are intended solely for research purposes and do not constitute financial advice.
 
-Strategies:
+**Strategies:**
+
 1. **Quantitative Strategies**
-    - Mean Reversion (Future Works)
-    - Pairs Trading
-        - Price Spread
-        - Log Spread
-        - Kalman Filter
+
+Pairs Trading
+| strategy           | description                                                                                           |
+| ------------------ | ----------------------------------------------------------------------------------------------------- |
+| `Price Spread`     | pairs trading using the price spread of 2 correlated and cointegrated stocks                          |
+| `Log Spread`       | pairs trading using the log price spread of 2 correlated and cointegrated stocks                      |
+| `Kalman Filter`    | use kalman filters to better estimate the log price spread for pairs trading                          |
+
+Mean Reversion (Future Works)
+
 
 2. **Technical Analysis Strategies**
-    - Momentum Based Strategies
-        - MACD Histogram Reversal
-        - EMA Trend Reversal
-        - RSI
-        - Bollinger Bands
-        - VWAP (Future Works)
-    - Support Resistance Strategies (Future Works)
-    - Combination Strategies
-        - MACD + EMA
+
+Momentum Based Strategies
+| strategy            | description                                                                                             |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| `MACD`              | use MACD histogram reversals as signals for entering or shorting a stock                                |
+| `EMA`               | use EMA trend reversals as signals for entering or shorting a stock                                     |
+| `RSI`               | use RSI indicator to identify potential overbought or oversold levels as opportunities for trade entries|
+| `Bollinger Bands`   | use BBands indicator to identify volatility and potential overbought and oversold conditions            |
+| `VWAP`              | Future Works                                                                                            |
+
+Support Resistance Strategies (Future Works)
+
+
+Combination Strategies
+| strategy                  | description                                                                                   |
+| ------------------------- | --------------------------------------------------------------------------------------------- |
+| `MACD + EMA`              | combine 2 momentum-based strategies to improve the profitability of trading a stock           |
