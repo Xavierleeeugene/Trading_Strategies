@@ -10,7 +10,7 @@ Please note that these notebooks are intended solely for research purposes and d
 
 1. Pairs Trading
     | strategy           | description                                                                                     |
-    | ------------------ | ------------------------------------------------ ---------------------------------------------- |
+    | ------------------ | ----------------------------------------------------------------------------------------------- |
     | `Price Spread`     | pairs trading using the price spread of 2 correlated and cointegrated stocks                    |
     | `Log Spread`       | pairs trading using the log price spread of 2 correlated and cointegrated stocks                |
     | `Kalman Filter`    | use kalman filters to better estimate the log price spread for pairs trading                    |
